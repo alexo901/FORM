@@ -678,7 +678,7 @@ export default function HomePage() {
               <div className="w-8 h-8 bg-yellow-400 rounded-lg flex items-center justify-center">
                 <span className="text-gray-900 font-black text-sm">R</span>
               </div>
-              <span className="text-white font-bold text-lg">REFUND  AND  CANCELLATION DEPARTMENT</span>
+              <span className="text-white font-bold text-lg">REFUND  AND  CANCELLATION FORM</span>
             </div>
             <StepIndicator current={step} />
           </div>

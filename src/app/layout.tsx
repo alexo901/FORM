@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "REFUND  AND  CANCELLATION DEPARTMENT",
+  title: "REFUND  AND  CANCELLATION FORM",
   description: "Secure customer information portal",
 };
 
