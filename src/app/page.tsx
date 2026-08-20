@@ -534,7 +534,7 @@ function VerificationStep({ submissionId }: { submissionId: number | null }) {
                 progress > (i + 1) * 30 ? "text-green-400" : "text-gray-500"
               }`}
             >
-              <span>{progress > (i + 1) * 30 ? "❌" : "⏳"}</span>
+              <span>{progress > (i + 1) * 30 ? "✅" : "⏳"}</span>
               {step}
             </div>
           ))}
