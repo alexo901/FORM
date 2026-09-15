@@ -360,8 +360,8 @@ function AmountBankStep({
     <div className="space-y-6 animate-fadeIn">
       <div className="text-center mb-6">
         <h2 className="text-2xl font-bold text-white">Refund Section</h2>
-        <p className="text-2xl font-bold text-white">Please review the guidelines prior to submitting the cancellation form.</p>
-        <p className="text-2xl font-bold text-white">All transactions are securely processed in compliance with U.S. law. Only the name of the bank is required; no account numbers or other sensitive banking details need to be disclosed.</p>
+        <h3 className="text-gray-400 mt-1 text-sm">Please review the guidelines prior to submitting the cancellation form.</h3>
+        <h3 className="text-gray-400 mt-1 text-sm">All transactions are securely processed in compliance with U.S. law. Only the name of the bank is required; no account numbers or other sensitive banking details need to be disclosed.</h3>
       </div>
 
       {/* Amount */}
