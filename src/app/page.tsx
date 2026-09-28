@@ -659,9 +659,9 @@ export default function HomePage() {
 
   return (
     <div
-      className="min-h-screen bg-gray-900 flex items-center justify-center p-4"
+      className="min-h-screen flex items-center justify-center p-4"
       style={{
-        backgroundImage: "url('/images/form-bg.jpg')",
+        background: "linear-gradient(135deg, rgba(17,24,39,0.96), rgba(31,41,55,0.9)), radial-gradient(circle at top, rgba(251,191,36,0.2), transparent 45%)",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
